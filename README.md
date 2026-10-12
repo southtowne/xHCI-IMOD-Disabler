@@ -8,7 +8,7 @@ Disables xHCI Interrupt Moderation (IMOD) on every USB host controller found in 
 # Usage
 Simply follow the quick and easy steps below ↓
 
-1. Download [Release.zip](https://github.com/southtowne/xHCI-IMOD-Disable/releases/download/XHCI/Release.zip).
+1. Download [Release.zip](https://github.com/southtowne/xHCI-IMOD-Disabler/releases/download/XHCI/Release.zip).
 2. Right-click & extract
 3. Right-click xHCIImodDisable.exe -> Run as administrator.
 
